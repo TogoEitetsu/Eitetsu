@@ -1,0 +1,5 @@
+__pycache__
+data/reply_dict.csv
+Pipfile
+Pipfile.lock
+Procfile
