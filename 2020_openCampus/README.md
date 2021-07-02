@@ -36,6 +36,19 @@ $ heroku ps:scale web=0
 使用言語：　Python \
 フォーマット：　LINE
 
+### 環境
+```
+Click==7.0
+Flask==1.1.1
+pandas==1.1.0
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+Werkzeug==0.16.0
+line-bot-sdk==1.17.0
+neologdn==0.4
+```
 
 ### 順序
 1. app.pyのサーバーたてる
